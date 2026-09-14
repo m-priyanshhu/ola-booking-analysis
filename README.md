@@ -92,7 +92,6 @@ The Power BI dashboard includes filters/slicers that allow the data to be explor
 ## Learning Outcome
 This project helped me gain practical experience in using Excel, SQL, and Power BI for data analysis and dashboard creation.
 It was my first step into Data Analytics and helped me understand how data can be analyzed and presented through SQL queries and interactive dashboards.
----
 ## Disclaimer
 This is a learning/project dataset created for data analytics practice and portfolio purposes.
 The project is not based on confidential or proprietary Ola company data.
