@@ -82,6 +82,13 @@ The Power BI dashboard includes filters/slicers that allow the data to be explor
 - `5_revenue_analysis.png` - Revenue Analysis
 - `6_cancellation_analysis.png` - Cancellation Analysis
 - `README.md` - Project documentation
+## Dashboard Preview
+### Overall Dashboard
+![Overall Dashboard](4_overall_dashboard.png)
+### Revenue Analysis
+![Revenue Analysis](5_revenue_analysis.png)
+### Cancellation Analysis
+![Cancellation Analysis](6_cancellation_analysis.png)
 ## Learning Outcome
 This project helped me gain practical experience in using Excel, SQL, and Power BI for data analysis and dashboard creation.
 It was my first step into Data Analytics and helped me understand how data can be analyzed and presented through SQL queries and interactive dashboards.
